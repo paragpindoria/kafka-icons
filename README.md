@@ -1,4 +1,7 @@
-# Kafka Icons Repository
+<div align="center">
+    <h1>Kafka Icons Repository</h1>
+  <img src="icons/kafka-1.png" alt="Kafka Icon" width="100"/>
+</div>
 
 Welcome to the **Kafka Icons Repository**! This repository contains a collection of icons designed specifically for use with Apache Kafka projects. The icons can be used in presentations, documentation, dashboards, and any other Kafka-related visual content.
 
